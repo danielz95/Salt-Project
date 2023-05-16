@@ -1,0 +1,33 @@
+{
+  "HomepageLocation": "https://www.haaga-helia.fi",
+  "HomepageIsNewTabPage": false,
+  "DefaultBrowserSettingEnabled": true,
+  "RestoreOnStartup": 1,
+  "SafeBrowsingProtectionLevel": 1,
+  "MaxConnectionsPerProxy": 99,
+  "ShowHomeButton": true,
+  "URLBlocklist": [
+    "www.youtube.com",
+    "www.wikipedia.org",
+    "www.bing.com"
+  ],
+  "ExtensionInstallForcelist": [
+    "noondiphcddnnabmjcihcjfbhfklnnep",
+    "djflhoibgkdhkhhcedjiklpkjnoahfmg"
+  ],
+  "ManagedBookmarks": [
+    {
+      "name": "Tuudo",
+      "url": "tuudo.fi"
+    },
+    {
+      "name": "3AMK",
+      "url": "3amk.fi"
+    },
+    {
+      "name": "Haaga-Helia",
+      "url": "haaga-helia.fi"
+    }
+  ]
+}
+
